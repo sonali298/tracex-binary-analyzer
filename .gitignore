@@ -1,0 +1,9 @@
+vdbg
+*.o
+*.out
+.cache
+seg
+*.txt
+demo
+.gdb*
+*.json
